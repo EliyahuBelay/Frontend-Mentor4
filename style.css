@@ -66,7 +66,6 @@ main{
     height: 15%;
     width: 70%;
     font-family: 'Inter', sans-serif;
-    /* background-color:brown; */
     color: hsl(0, 0%, 100%);
     display: grid;
     grid-template-columns: 23% 23% 23%;
@@ -94,7 +93,6 @@ main{
     border-bottom-right-radius: 9px;
     border-top-right-radius: 9px;
     background-color: hsl(277, 97%, 48%);
-    /* isolation: isolate; */
     opacity: 1.9;
 }
 .working_people_pic_for_desktop{
